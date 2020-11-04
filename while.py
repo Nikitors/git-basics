@@ -1,6 +1,4 @@
-a = 1
-b = 5
-while a == b:
-  print (a)
+a = 0
+while a != 5:
   a += 1
- 
+  print (a)
