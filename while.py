@@ -1,3 +1,4 @@
+print('a = 0 from the beginning')
 a = 0
 b = 10
 while a != b:
